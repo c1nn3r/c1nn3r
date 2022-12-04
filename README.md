@@ -6,6 +6,7 @@
 
 thats all folks...
 
-![KALI](https://user-images.githubusercontent.com/119784145/205500077-e3bd0cd3-5482-49b0-8667-08e758573eae.png) AANNNDD -- 
 
 
+
+![KALI](https://user-images.githubusercontent.com/119784145/205501161-8ef4aa89-ae2e-4a74-8850-4bd863746ed2.png)
