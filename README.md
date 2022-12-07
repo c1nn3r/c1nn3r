@@ -6,4 +6,4 @@
 
 thats all folks...
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=c1nn3r)](https://github.com/anuraghazra/github-readme-stats)
+![c1nn3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1nn3r&show_icons=true&theme=transparent)
